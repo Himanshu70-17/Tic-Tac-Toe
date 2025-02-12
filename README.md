@@ -81,6 +81,7 @@ Code Breakdown
   •	Ends the game when a winner is found or the board is full.
 
 
+
 **Installation & Running the Game**
 
 1.	Clone the repository 
@@ -96,6 +97,7 @@ Code Breakdown
 6.	javac TTT.java
 
 7.	java TTT
+
 
 
 **Screenshot**
